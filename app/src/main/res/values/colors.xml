@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black_overlay">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="cirular_textview_background">#FF0000</color>
+    <color name="check">#FFCCAB</color>
+    <color name="deep">#4169E1</color>
+    <color name="btn">#00bfff</color>
+    <color name="btn2">#9acd32</color>
+    <color name="back">#ffff99</color>
+    <color name="pop">#7fff7f</color>
+    <color name="txt">#0000ff</color>
+</resources>

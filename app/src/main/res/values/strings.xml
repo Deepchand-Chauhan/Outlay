@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">OutLay</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="today_fragment">ToDay Fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="week_fragment">Week Fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="month_fragment">Month fragment</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="calc_fragment"></string>
+
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="dummy_content">OutLay</string>
+
+    <string name="balance">Balance</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="feed_fragment">Feedback fragment</string>
+
+
+</resources>
